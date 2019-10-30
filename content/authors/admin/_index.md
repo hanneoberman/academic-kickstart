@@ -15,7 +15,7 @@ role: Master's student, TA, and RA Methodology and Statistics
 # Organizations/Affiliations
 organizations:
 - name: Utrecht University
-  url: ""
+  url: "https://www.uu.nl/en"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Currently working on ShinyMICE, an interactive evaluation device for multiply imputed data.
@@ -29,8 +29,8 @@ education:
   courses:
   - course: MSc in Methodology and Statistics
     institution: Utrecht University
-    year: 2020
-  - course: BSc in Liberal Arts and Sciences, major Artificial Intelligence
+    year: 2020 (expected)
+  - course: BSc in Liberal Arts and Sciences (major Artificial Intelligence, honours, cum laude)
     institution: Utrecht University
     year: 2018
 
@@ -39,9 +39,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+# - icon: envelope
+# icon_pack: fas
+# link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/hioberman
