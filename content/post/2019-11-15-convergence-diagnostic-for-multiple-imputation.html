@@ -20,7 +20,7 @@ type: "post"
 
 
 
-<p>This file describes how convergence diagnostic <span class="math inline">\(\widehat{R}\)</span> is computed in the simulation study I ran for my Research Report. <span class="math inline">\(\widehat{R}\)</span> is also called ‘potential scale reduction factor’. It tells us how much the variance of an estimate could be shrunken down if we would have infinitely many iterations.</p>
+<p>This file describes how convergence diagnostic <span class="math inline">\(\widehat{R}\)</span> is computed in the simulation study I ran for my Research Report. <span class="math inline">\(\widehat{R}\)</span> is also called ‘potential scale reduction factor’ or ‘Gelman-Rubin statistic’. It tells us how much the variance of an estimate could be shrunken down if we would have run infinitely many iterations.</p>
 <div id="step-1-impute-some-data" class="section level1">
 <h1>Step 1: Impute some data</h1>
 <p>It’s easiest to show how <span class="math inline">\(\widehat{R}\)</span> is computed by applying it on a simple example. Load the nhanes data and impute the variables with missingness.</p>
@@ -127,7 +127,7 @@ get.rhat</code></pre>
 <h1>Step 3: Apply these functions to get <span class="math inline">\(\widehat{R}\)</span> values</h1>
 <p>Now we know what’s happening, let’s apply it.</p>
 <pre class="r"><code>rhat_function(imp, maxit, n.var = n.var)</code></pre>
-<pre><code>## [1] 1.065883</code></pre>
+<pre><code>## [1] 1.068033</code></pre>
 <p>This <span class="math inline">\(\widehat{R}\)</span> value is nice and high, but I also got values below one. Which is theoretically impossible.</p>
 </div>
 <div id="so-my-question-to-you-is-how-is-it-possible-that-we-can-obtain-widehatr-values-1" class="section level1">

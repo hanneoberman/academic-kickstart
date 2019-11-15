@@ -18,7 +18,7 @@ type: "post"
 #    weight: 1
 ---
 
-This file describes how convergence diagnostic $\widehat{R}$ is computed in the simulation study I ran for my Research Report. $\widehat{R}$ is also called 'potential scale reduction factor'. It tells us how much the variance of an estimate could be shrunken down if we would have infinitely many iterations.
+This file describes how convergence diagnostic $\widehat{R}$ is computed in the simulation study I ran for my Research Report. $\widehat{R}$ is also called 'potential scale reduction factor' or 'Gelman-Rubin statistic'. It tells us how much the variance of an estimate could be shrunken down if we would have run infinitely many iterations.
 
 # Step 1: Impute some data
 

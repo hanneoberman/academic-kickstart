@@ -21,18 +21,22 @@ organizations:
 bio: Currently working on ShinyMICE, an interactive evaluation device for multiply imputed data.
 
 interests:
-- Meta Research
+- Meta-research
 - Statistics
+- Interdisciplinarity
 - Teaching
 
 education:
   courses:
   - course: MSc in Methodology and Statistics
-    institution: Utrecht University
+    institution: Utrecht University, The Netherlands
     year: 2020 (expected)
-  - course: BSc in Liberal Arts and Sciences (major Artificial Intelligence, honours, cum laude)
-    institution: Utrecht University
+  - course: Post-graduate Summer School 'GALA'
+    institution: Concordia University, Canada 
     year: 2018
+  - course: BSc in Liberal Arts and Sciences 
+    institution: Utrecht University, The Netherlands
+    year: 2018 
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -45,12 +49,15 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/hioberman
-#- icon: google-scholar
-#  icon_pack: ai
-#  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=zIEOrhIAAAAJ&hl
 - icon: github
   icon_pack: fab
   link: https://github.com/hanneoberman
+- icon: linkedin
+  icon_pack: fab  
+  link: https://www.linkedin.com/in/hanneoberman/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -67,4 +74,6 @@ social:
 # - Visitors
 ---
 
-**Warning: This website is still under construction.** Hi, my name is Hanne Oberman. I'm a research master's student Methodology and Statistics for the Behavioural, Biomedical and Social Sciences at Utrecht University. I expect to graduate May 2020. 
+Hi, my name is Hanne Oberman. I'm a research master's student Methodology and Statistics for the Behavioural, Biomedical and Social Sciences at Utrecht University. I expect to graduate May 2020. 
+
+[**Warning: This website is still under construction.**] 
