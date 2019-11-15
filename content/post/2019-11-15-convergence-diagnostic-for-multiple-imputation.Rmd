@@ -1,0 +1,26 @@
+---
+title: Convergence Diagnostic for Multiple Imputation
+author: admin
+date: '2019-11-15'
+categories:
+  - MSc Thesis
+tags:
+  - Convergence
+  - MICE
+  - ShinyMICE
+slug: convergence-diagnostic-for-multiple-imputation
+linktitle: 2019 11 15 Convergence Diagnostic for Multiple Imputation
+lastmod: '2019-11-15T16:01:41+01:00'
+toc: yes
+type: docs
+menu:
+  example:
+    name: YourParentID
+    weight: 1
+---
+
+This file describes how convergence diagnostic $\widehat{R}$ is computed in the simulation study I ran for my Research Report. $\widehat{R}$ is also called 'potential scale reduction factor'. It tells us how much the variance of an estimate could be shrunken down if we would have infinitely many iterations.
+
+# Step 1: Impute some data
+
+
