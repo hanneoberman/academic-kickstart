@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Master's student, TA, and RA Methodology and Statistics
+role: Research master's student, TA, and RA Methodology and Statistics
 
 # Organizations/Affiliations
 organizations:
