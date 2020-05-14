@@ -60,7 +60,7 @@ mtcars %>%
 
 Source: https://twitter.com/thomas_neitmann/status/1260111985968119808?s=20
 
-- rename objects/variables/etc. within one `R` chunck only
+### Rename objects/variables/etc. within one `R` chunck only
 
 ```
 Ctrl + Alt + Shift + M
@@ -68,13 +68,13 @@ Ctrl + Alt + Shift + M
 
 Source: https://twitter.com/sergiouribe/status/1251446686255329283?s=20
 
-- select text vertically (e.g., `geom_line()` to `geom_point()`)
+### Select text vertically (e.g., `geom_line()` to `geom_point()`)
 
 ```
 Alt + cursor
 ```
 
-- auto-format `R` script/chunk
+### Auto-format `R` script/chunk
 
 ```
 Ctrl + Shift + A
