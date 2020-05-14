@@ -18,7 +18,7 @@ image:
 
 A list of things I found on the internet and thought to be useful.
 
-- reduce whitespace in printed lists
+### Reduce whitespace in printed lists
 
 ```{r}
 # create a list
@@ -31,7 +31,7 @@ print.simple.list(alist)
 
 Source: https://twitter.com/coolbutuseless/status/1259972282421739522?s=20
 
-- rename columns *inside* `dyplyr::select()` call 
+### Rename columns *inside* `dyplyr::select()` call 
 
 ```{r message=FALSE, warning=FALSE}
 library(dplyr)
@@ -45,7 +45,7 @@ mtcars %>%
 
 Source: https://twitter.com/n_a_gilbert/status/1259866258708840452?s=20
 
-- comment out any step in a pipeline 
+### Comment out any step in a pipeline 
 
 ```{r}
 mtcars %>% 
@@ -80,7 +80,7 @@ Alt + cursor
 Ctrl + Shift + A
 ```
 
-- round to nearest tenth, hundred, etc.
+### Round to nearest tenth, hundred, etc.
 
 ```{r}
 round(
@@ -92,7 +92,7 @@ round(
 
 Source: https://twitter.com/_ColinFay/status/1250706532762861569?s=20
 
-- apply function to columns of dataframe
+### Apply function to columns of dataframe
 
 ```{r}
 library(magrittr)
@@ -100,7 +100,7 @@ library(magrittr)
 mtcars %$% lm(mpg ~ disp + hp)
 ```
 
-- rename columns in dataframe at the end of a pipeline
+### Rename columns in dataframe at the end of a pipeline
 
 ```{r}
 mtcars %>% 
@@ -110,7 +110,7 @@ mtcars %>%
   setNames(., 1:dim(.)[2])
 ```
 
-- print variable names *cleanly* (i.e., comma separated and without quote marks)
+### Print variable names *cleanly* (i.e., comma separated and without quote marks)
 
 ```{r}
 # print just the names
@@ -119,7 +119,8 @@ paste(colnames(mtcars), collapse = ", ")
 
 Source: https://twitter.com/ludmila_janda/status/1217486240058134528?s=20
 
-- save output of `R` script/chunk
+### Save output of `R` script/chunk
+
 ```{r}
 # define output file, specify whether to add to existing output
 sink(file="output.txt", append = FALSE)
@@ -132,7 +133,7 @@ sink()
 
 Source: https://twitter.com/olivier_klein/status/1203347039133802497?s=20
 
-- turn off scientific notation (e.g., `5.3e-2` to `0.053`)
+### Turn off scientific notation (e.g., `5.3e-2` to `0.053`)
 
 ```{r}
 options(scipen = 999)
@@ -140,4 +141,6 @@ options(scipen = 999)
 
 Source: https://twitter.com/edwardhkennedy/status/1188206942017196032?s=20
 
-- list of datasets in `R`: https://vincentarelbundock.github.io/Rdatasets/datasets.html
+### List of datasets in `R`
+
+Source: https://vincentarelbundock.github.io/Rdatasets/datasets.html
