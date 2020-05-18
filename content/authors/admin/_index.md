@@ -74,6 +74,4 @@ social:
 # - Visitors
 ---
 
-Hi, my name is Hanne Oberman. I'm a research master's student Methodology and Statistics for the Behavioural, Biomedical and Social Sciences at Utrecht University. I expect to graduate May 2020. 
-
-[**Warning: This website is still under construction.**] 
+Hi, my name is Hanne Oberman. I'm a research master's student Methodology and Statistics for the Behavioural, Biomedical and Social Sciences at Utrecht University. I expect to graduate this month (May 2020). 
