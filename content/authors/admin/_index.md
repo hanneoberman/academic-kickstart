@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Research master's student, TA, and RA Methodology and Statistics
+role: Junior researcher Methodology and Statistics
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: "https://www.uu.nl/en"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Currently working on ShinyMICE, an interactive evaluation device for multiply imputed data.
+bio: Currently working on ShinyMICE, an interactive evaluation device for missing data methods.
 
 interests:
 - Meta-research
@@ -30,13 +30,13 @@ education:
   courses:
   - course: MSc in Methodology and Statistics
     institution: Utrecht University, The Netherlands
-    year: 2020 (expected)
+    year: 2020 (cum laude)
   - course: Post-graduate Summer School 'GALA'
     institution: Concordia University, Canada 
     year: 2018
   - course: BSc in Liberal Arts and Sciences 
     institution: Utrecht University, The Netherlands
-    year: 2018 
+    year: 2018 (honours, cum laude)
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -74,4 +74,4 @@ social:
 # - Visitors
 ---
 
-Hi, my name is Hanne Oberman. I'm a research master's student Methodology and Statistics for the Behavioural, Biomedical and Social Sciences at Utrecht University. I expect to graduate this month (May 2020). 
+Hi, my name is Hanne Oberman. I recently graduated the MSc programme 'Methodology and Statistics for the Behavioural, Biomedical and Social Sciences at Utrecht University'. Currently, I'm working as junior researcher on the topic of missing data methodology. 
