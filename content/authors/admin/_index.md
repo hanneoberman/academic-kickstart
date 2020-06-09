@@ -74,4 +74,4 @@ social:
 # - Visitors
 ---
 
-Hi, my name is Hanne Oberman. I recently graduated the MSc programme 'Methodology and Statistics for the Behavioural, Biomedical and Social Sciences at Utrecht University'. Currently, I'm working as junior researcher on the topic of missing data methodology. 
+Hi, my name is Hanne Oberman. I recently graduated from the MSc programme 'Methodology and Statistics for the Behavioural, Biomedical and Social Sciences' at Utrecht University. Currently, I'm working as junior researcher on the topic of missing data methodology, under supervision of [Gerko Vink](https://www.gerkovink.com/) and [Stef van Buuren](https://stefvanbuuren.name/). See my Github or Twitter feed for updates!
